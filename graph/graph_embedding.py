@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 
 GRAPH_PATH = "./graph/hetero_graph.pt"
-SAVE_PATH = "./graphs/hetero_graph_embed.pt"
+SAVE_PATH = "./graph/hetero_graph_embed.pt"
 USE_BGE = True   
 USE_PCA = False     
 PCA_DIM = 100
